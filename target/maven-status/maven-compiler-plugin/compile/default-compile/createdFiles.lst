@@ -1,0 +1,7 @@
+repository/UtilisateurRepository.class
+repository/DataBase.class
+repository/EquipementRepository.class
+repository/PanneRepository.class
+services/main.class
+repository/TechnicienRepository.class
+controller/EquipementController.class
